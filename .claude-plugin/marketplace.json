@@ -1,0 +1,18 @@
+{
+  "name": "ola-cruise-chat-bot-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "Cruise Product Chat Bot 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ola-cruise-chat-bot",
+      "source": "./plugins/ola-cruise-chat-bot",
+      "description": "An AI chat bot designed to assist users in finding and booking cruise products right from their chat interface.",
+      "version": "0.1.0"
+    }
+  ]
+}
